@@ -1,0 +1,6 @@
+# Exclude raw dataset directory and any lingering zip files
+RAW_DATA/
+*.zip
+
+# Exclude local checkpoint cache files
+.ipynb_checkpoints/
