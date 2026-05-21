@@ -4,3 +4,6 @@ data/
 # Ignore Jupyter checkpoint caches
 .ipynb_checkpoints/
 __pycache__/
+
+# Ignore other unnecessary folders and files
+my_experiment_results.zip
