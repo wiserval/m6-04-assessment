@@ -1,6 +1,6 @@
-# Exclude raw dataset directory and any lingering zip files
-RAW_DATA/
-*.zip
+# Ignore the local data directory entirely (Required by README)
+data/
 
-# Exclude local checkpoint cache files
+# Ignore Jupyter checkpoint caches
 .ipynb_checkpoints/
+__pycache__/
